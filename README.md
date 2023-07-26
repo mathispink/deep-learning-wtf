@@ -1,4 +1,4 @@
-# Teaching TensorFlow
+# Learning Deep Learning with TensorFlow
 
 This is a compiled repository of my teaching material from teaching a course on deep learning with TensorFlow in 2021/22 and 2022/23 and is meant as a self-contained resource for self-study. 
 
