@@ -4,6 +4,15 @@ This is a compiled and revised repository of my teaching material for a course o
 
 Sessions 14 and 15 as well as exercises for the sessions are not yet available in this repository. They will be added when I find time to add content that is suitable for self-study.
 
+|     Session     |    Content                             |              Exercise                 |
+|-----------------|----------------------------------------|---------------------------------------|
+|   00            |    Basic tensor operations + Prerequisites|               Exercise0               |
+|   01            |    Introduction to ANNs                            |                                       |
+|   02            |                                   |                                       |  
+|   03            |                             |                                       |
+|   04            |                       |
+
+
 ## Course contents:
 
 - 00 Basic tensor operations in TensorFlow
