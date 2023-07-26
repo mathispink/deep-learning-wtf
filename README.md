@@ -6,46 +6,46 @@ Sessions 12, 14 and 15 as well as homework assignments are not yet available in 
 
 ## Course contents:
 
-- 0. Basic tensor operations in TensorFlow
+- 00 Basic tensor operations in TensorFlow
 
 
-- 1. From biological neurons to logic gates, to activation functions to universal function approximation (build your first ANN from scratch)
+- 01 From biological neurons to logic gates, to activation functions to universal function approximation (build your first ANN from scratch)
 
 
-- 2. Learning in ANNs: Gradient Descent, Backpropagation, and Automatic Differentiation (build your first ANN from scratch, including backpropagation and training loop)
+- 02 Learning in ANNs: Gradient Descent, Backpropagation, and Automatic Differentiation (build your first ANN from scratch, including backpropagation and training loop)
 
 
-- 3. Basic usage of TensorFlow's automatic differentiation: The GradientTape context manager
+- 03 Basic usage of TensorFlow's automatic differentiation: The GradientTape context manager
 
 
-- 4. Modules, Layers, and Models. An introduction to the Keras Subclassing API
+- 04 Modules, Layers, and Models. An introduction to the Keras Subclassing API
 
 
-- 5. Keras metrics for keeping track of losses, accuracies etc.
+- 05 Keras metrics for keeping track of losses, accuracies etc.
 
 
-- 6. Loss functions and optimizers
+- 06 Loss functions and optimizers
 
 
-- 7. Putting it together: Using TensorBoard to log training data and implementing a subclassed model using keras metrics and a custom training loop.
+- 07 Putting it together: Using TensorBoard to log training data and implementing a subclassed model using keras metrics and a custom training loop.
 
 
-- 8. Convolutional Neural Networks (incl. interactive widget)
+- 08 Convolutional Neural Networks (incl. interactive widget)
 
 
-- 9. Regularization: Avoiding overfitting with L1/L2 penalties, dropout, normalization and data augmentation
+- 09 Regularization: Avoiding overfitting with L1/L2 penalties, dropout, normalization and data augmentation
 
 
-- 10. Optimization difficulties: Vanishing and exploding gradients. Weight initialization, normalization and residual/skip connections as partial solutions
+- 10 Optimization difficulties: Vanishing and exploding gradients. Weight initialization, normalization and residual/skip connections as partial solutions
 
 
-- 11. Recurrent Neural Networks: From unrolled recurrence to dynamically unrolled custom recurrent cells
+- 11 Recurrent Neural Networks: From unrolled recurrence to dynamically unrolled custom recurrent cells
 
 
-- (12. Autoencoders)
+- (12 Autoencoders)
 
 
-- 13. Generative Models
+- 13 Generative Models
 
 
 - (14. Transformers and NLP)
