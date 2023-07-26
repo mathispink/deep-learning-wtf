@@ -1,4 +1,4 @@
-# Learning Deep Learning with TensorFlow
+# Deep Learning wtf (with TensorFlow) Course
 
 This is a compiled and revised repository of my teaching material for a course on deep learning with TensorFlow in 2021/22 and 2022/23 and is now meant as a self-contained resource for self-study. 
 
