@@ -1,11 +1,11 @@
 # Learning Deep Learning with TensorFlow
 
-This is a compiled and revised repository of my teaching material for a course on deep learning with TensorFlow in 2021/22 and 2022/23 and is meant as a self-contained resource for self-study. 
+This is a compiled and revised repository of my teaching material for a course on deep learning with TensorFlow in 2021/22 and 2022/23 and is now meant as a self-contained resource for self-study. 
 
-Sessions 14 and 15 as well as exercises for the sessions are not yet available in this repository. They will be added when I find time to add content that is suitable for self-study.
+Sessions 14 and 15 as well as exercises 08-11 are not yet available in this repository. They will be added when I find time to add content that is suitable for self-study.
 
 How to study:
-Go through the material sequentially, first reading/going through the session's notebook, supplementary material and possibly read some background reading, then do the exercise designated to that session (see table below).
+It is best to go through the material in sequential order, first going through the session's notebook, supplementary material and possibly read some of the recommended background reading, and then do the exercise designated to that session if there is one (see table below).
 
 Course contents:
 
