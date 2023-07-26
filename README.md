@@ -4,7 +4,10 @@ This is a compiled and revised repository of my teaching material for a course o
 
 Sessions 14 and 15 as well as exercises for the sessions are not yet available in this repository. They will be added when I find time to add content that is suitable for self-study.
 
-Course contents and recommended time to do exercises:
+How to study:
+Go through the material sequentially, first reading/going through the session's notebook, supplementary material and possibly read some background reading, then do the exercise designated to that session (see table below).
+
+Course contents:
 
 |     Session     |    Content                             |              Exercise                 | Supplementary material |     Recommended or seminal readings |
 |-----------------|----------------------------------------|---------------------------------------|------------------------|------------------------------------|
