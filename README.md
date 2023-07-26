@@ -2,7 +2,7 @@
 
 This is a compiled repository of my teaching material from teaching a course on deep learning with TensorFlow in 2021/22 and 2022/23 and is meant as a self-contained resource for self-study. 
 
-Sessions 12, 14 and 15 as well as homework assignments are not yet available in this repository for independent learning purposes. They will be added when I find time to add the content.
+Sessions 14 and 15 as well as homework assignments are not yet available in this repository for independent learning purposes. They will be added when I find time to add the content.
 
 ## Course contents:
 
@@ -42,7 +42,7 @@ Sessions 12, 14 and 15 as well as homework assignments are not yet available in 
 - 11 Recurrent Neural Networks: From unrolled recurrence to dynamically unrolled custom recurrent cells
 
 
-- (12 Autoencoders)
+- 12 Autoencoders
 
 
 - 13 Generative Models
