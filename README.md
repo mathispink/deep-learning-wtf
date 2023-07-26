@@ -1,6 +1,6 @@
 # Teaching TensorFlow
 
-This is a compiled repository of my teaching material from teaching a course on deep learning with TensorFlow in 2021/22 and 2022/23 and are meant as a self-contained resource for self-study. 
+This is a compiled repository of my teaching material from teaching a course on deep learning with TensorFlow in 2021/22 and 2022/23 and is meant as a self-contained resource for self-study. 
 
 Sessions 12, 14 and 15 as well as homework assignments are not yet available in this repository for independent learning purposes. They will be added when I find time to add the content.
 
