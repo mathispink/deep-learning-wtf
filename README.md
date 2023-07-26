@@ -4,7 +4,7 @@ This is a compiled and revised repository of my teaching material for a course o
 
 Sessions 14 and 15 as well as exercises for the sessions are not yet available in this repository. They will be added when I find time to add content that is suitable for self-study.
 
-Course content and recommended time to do exercises:
+Course contents and recommended time to do exercises:
 
 |     Session     |    Content                             |              Exercise                 |
 |-----------------|----------------------------------------|---------------------------------------|
